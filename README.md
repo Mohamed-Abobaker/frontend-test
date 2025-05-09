@@ -26,8 +26,9 @@ Below is a list of ideas for features (in no particular order) you can work on:
 ## Getting started:
 
 - Clone this repository
-- Run `yarn start` or `npm start`
+- Run `yarn install` or `npm install`
+- Run `yarn dev` or `npm dev`
 - Go to `http://localhost:3000` to view the basic hello world app
 - Work from the `./src` folder in this directory
-- You can run tests with Jest: `yarn test`
+- You can run tests with Jest: `yarn test` or `npm test`
 
